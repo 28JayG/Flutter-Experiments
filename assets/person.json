@@ -1,0 +1,47 @@
+[
+  {
+    "name" : "Jay",
+    "age" : "20",
+    "height" : "160",
+    "gender" : "male",
+    "hair_color" : "black",
+    "image" : "https://scontent.fccu10-1.fna.fbcdn.net/v/t1.0-9/42058281_1095676073924798_5753669001540534272_n.jpg?_nc_cat=108&oh=036765c282e259cc8642899251fa9940&oe=5C59CAE1"
+
+  },
+  {
+    "name" : "Goya",
+    "age" : "90",
+    "height" : "165",
+    "gender" : "male",
+    "hair_color" : "grey",
+    "image" : "https://scontent.fccu10-1.fna.fbcdn.net/v/t1.0-9/26992143_1688454267888389_5252572125666535052_n.jpg?_nc_cat=107&oh=808274b441ce63eb0918e557700a4942&oe=5C5AA799"
+
+  },
+  {
+    "name" : "Amit",
+    "age" : "23",
+    "height" : "157",
+    "gender" : "male",
+    "hair_color" : "rainbow",
+    "image" : "https://scontent.fccu10-1.fna.fbcdn.net/v/t1.0-9/10487366_264214660439858_3699534213346774412_n.jpg?_nc_cat=107&oh=bde19b170eb6d411aef2c28d5ba4bdc5&oe=5C53810B"
+
+  },
+  {
+    "name" : "Chotu",
+    "age" : "23",
+    "height" : "164",
+    "gender" : "male",
+    "hair_color" : "white",
+    "image" : "https://scontent.fccu10-1.fna.fbcdn.net/v/t1.0-9/36222595_184675795715815_6555732506023297024_n.jpg?_nc_cat=111&oh=49499dbe9d884118ae96235219ba4dba&oe=5C538D14"
+
+  },
+  {
+    "name" : "Sumit",
+    "age" : "23",
+    "height" : "160",
+    "gender" : "male",
+    "hair_color" : "brown",
+    "image" : "https://pbs.twimg.com/profile_images/1027648376328912897/EtzwxBj1_400x400.jpg"
+
+  }
+]
